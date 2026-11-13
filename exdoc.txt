@@ -1,0 +1,6 @@
+otis.soper
+ts.spr: otis.soper
+
+test@otis.soper
+
+This repository was created for functional tests.
